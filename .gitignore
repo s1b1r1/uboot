@@ -86,4 +86,4 @@ GTAGS
 \#*#
 
 /.pc/*
-/mx6qsabresd_config
+/mx6q*_config
