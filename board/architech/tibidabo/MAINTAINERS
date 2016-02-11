@@ -1,0 +1,6 @@
+TIBIDABO BOARD
+M:	Fausto Sessego <fausto.sessego@infomob.it>
+S:	Maintained
+F:	board/architech/tibidabo/
+F:	include/configs/tibidabo.h
+F:	configs/mx6qtibidabo_defconfig

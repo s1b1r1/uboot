@@ -1,0 +1,12 @@
+if TARGET_MX6TIBIDABO
+
+config SYS_BOARD
+	default "mx6tibidabo"
+
+config SYS_VENDOR
+	default "architech"
+
+config SYS_CONFIG_NAME
+	default "mx6tibidabo"
+
+endif
